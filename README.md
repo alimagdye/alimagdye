@@ -1,18 +1,9 @@
-- 👋 Hi, I’m @alimagdye
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<h2 align="center">Hi 👋, I'm Ali Magdy</h2>
+<h3 align="center">I'm a Computer Science student at Ain Shams University, passionate about software and web development. With a knack for creating efficient and user-friendly solutions, I specialize in crafting modern websites for aspiring startups and established brands.
 
-<!---
-alimagdye/alimagdye is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Skilled in JavaScript, C++, and PHP, I have hands-on experience with HTML, CSS, React, and SQL, complemented by tools like Git and VSCode. My projects reflect my ability to leverage computer science to enhance company workflows and introduce innovative ideas, like my development of a comprehensive database for a hotel.
 
-<h1 align="center">Hi 👋, I'm Ali Magdy</h1>
-<h3 align="center">A passionate frontend developer from Egypt</h3>
+I'm continually evolving my skills through certifications and practical projects.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alimagdye&label=Profile%20views&color=0e75b6&style=flat" alt="alimagdye" /> </p>
 
