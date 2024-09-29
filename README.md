@@ -1,3 +1,5 @@
+![White Simple Minimalist Modern Traveler Linkedin Banner](https://github.com/user-attachments/assets/be3629ba-45fa-42a8-9da6-73cb01bd9210)
+
 <h2 align="center">Hi 👋, I'm Ali Magdy</h2>
 <h3 align="center">I'm a Computer Science student at Ain Shams University, passionate about software and web development. With a knack for creating efficient and user-friendly solutions, I specialize in crafting modern websites for aspiring startups and established brands.
 
