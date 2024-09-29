@@ -15,7 +15,8 @@ I'm continually evolving my skills through certifications and practical projects
 
 - 💬 Ask me about Javascript
 
-- 📫 How to reach me alimagdye1@gmail.com
+- 📫 How to reach me alimagdye1@gmail.com 
+                     30403200100818@sci.asu.edu.eg
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
