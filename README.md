@@ -3,7 +3,7 @@
 <h2 align="center">Hi 👋, I'm Ali Magdy</h2>
 <h3 align="center">I'm a Computer Science student at Ain Shams University, passionate about software and web development. With a knack for creating efficient and user-friendly solutions, I specialize in crafting modern websites for aspiring startups and established brands.
 
-Skilled in JavaScript, Node.js, Java, and C++, I have hands-on experience with HTML, CSS, React.js, and SQL, complemented by tools like Git and VSCode. My projects reflect my ability to leverage computer science to enhance company workflows and introduce innovative ideas, like my development of a comprehensive database for a hotel.
+Skilled in JavaScript, Node.js, Java, and C++, I have hands-on experience with HTML, CSS, JS, Express.js, PosgreSQL, complemented by tools like Git and VSCode. My projects reflect my ability to leverage computer science to enhance company workflows and introduce innovative ideas, like my development of a comprehensive database for a hotel.
 
 I'm continually evolving my skills through certifications and practical projects.</h3>
 
