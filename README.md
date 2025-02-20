@@ -7,7 +7,7 @@ Currently, I work as an AI Trainer at Outlier, leveraging my programming experti
 
 One of my key projects is a real-time chat application built with Node.js, Express.js, and Supabase.
 
-My projects showcase my ability to enhance workflows and introduce tailored solutions based on unique business needs. For instance, I developed a comprehensive database for a HFD hotel, optimizing data management and efficiency.
+My projects showcase my ability to enhance workflows and introduce tailored solutions based on unique business needs. For instance, I developed a comprehensive database for an accessible hotel, optimizing data management and efficiency.
 
 I am always open to new opportunities, collaborations, and internships where I can apply and grow my expertise in backend development.
 
