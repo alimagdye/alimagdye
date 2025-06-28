@@ -19,7 +19,7 @@ I am always open to new opportunities, collaborations, and internships where I c
 
 - 🌱 I’m currently learning more about PostgreSQL and MongoDB  
 - 💬 Ask me about JavaScript, TypeScript & API Design  
-- 🌐 Check my portfolio: [ali-magdy.vercel.app](https://alimagdy.vercel.app)  
+- 🌐 Check my portfolio: [alimagdy.vercel.app](https://alimagdy.vercel.app)  
 - 📫 Reach me at: alimagdye1@gmail.com  
 
 <h3 align="left">Connect with me:</h3>
