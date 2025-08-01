@@ -17,11 +17,13 @@ I am always open to new opportunities, collaborations, and internships where I c
   <img src="https://komarev.com/ghpvc/?username=alimagdye&label=Profile%20views&color=0e75b6&style=flat" alt="alimagdye" />
 </p>
 
-- 🌱 I’m currently learning more about PostgreSQL and MongoDB  
+- 🌱 I’m currently learning more about PostgreSQL
 - 💬 Ask me about JavaScript, TypeScript & API Design  
 - 🌐 Check my portfolio: [alimagdy.vercel.app](https://alimagdy.vercel.app)  
 - 📫 Reach me at: alimagdye1@gmail.com
 - 📄 View My CV: [ali-magdy-cv](https://drive.google.com/file/d/1WHtQm6Y_lZkY1xFTxrwe1Ke4Ex1g_NXq/view?usp=sharing)
+- 🧠 Check out my problem-solving journey on [LeetCode](https://leetcode.com/u/alimagdy/)
+
 
 
 <h3 align="left">
