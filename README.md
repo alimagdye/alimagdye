@@ -24,12 +24,13 @@ I am always open to new opportunities, collaborations, and internships where I c
 - 📄 View My CV: [ali-magdy-cv](https://drive.google.com/file/d/1WHtQm6Y_lZkY1xFTxrwe1Ke4Ex1g_NXq/view?usp=sharing)
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/alimagdye" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alimagdye" height="30" width="40" />
+<h3 align="left">
+  Connect with me on LinkedIn:
+  <a href="https://linkedin.com/in/alimagdye" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alimagdye" height="30" width="40" style="vertical-align: bottom; margin-left: 8px;" />
   </a>
-</p>
+</h3>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
