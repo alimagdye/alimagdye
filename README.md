@@ -6,9 +6,9 @@ I am a Computer Science student at Ain Shams University and a passionate Back-En
 
 Currently, I work as an AI Trainer at Outlier, leveraging my programming expertise to train AI models. I am also expanding my backend skills through hands-on projects, certifications, and continuous learning.
 
-One of my key projects is a real-time chat application built with Node.js, Express.js, and Supabase.
+One of my key projects is a [real-time chat application](https://github.com/alimagdye/Real-Time-Chat-Application) built with Node.js, Express.js, and Supabase.
 
-My projects showcase my ability to enhance workflows and introduce tailored solutions based on unique business needs. For instance, I developed a comprehensive database for an accessible hotel, optimizing data management and efficiency.
+My projects showcase my ability to enhance workflows and introduce tailored solutions based on unique business needs. For instance, I developed a [comprehensive database for an accessible hotel](https://github.com/alimagdye/HFD-database), optimizing data management and efficiency.
 
 I am always open to new opportunities, collaborations, and internships where I can apply and grow my expertise in backend development.
 </h3>
