@@ -2,15 +2,18 @@
 
 <h2 align="center">Hi 👋, I'm Ali Magdy</h2>
 <h3 align="center">
-I am a Computer Science student at Ain Shams University and a passionate Back-End Developer (Node.js, Express.js, TypeScript) with a strong foundation in Java, SQL, and JavaScript. I thrive on building efficient and scalable web solutions, focusing on API development, database management, and system architecture.
+I am a Computer Science graduate from Ain Shams University and a Backend Developer specializing in Node.js, TypeScript, Express.js, and scalable API development.
 
-Currently, I work as an AI Trainer at Outlier, leveraging my programming expertise to train AI models. I am also expanding my backend skills through hands-on projects, certifications, and continuous learning.
+I have experience building backend systems for international companies, including developing a production social media platform for a Saudi Arabia-based company and working remotely with U.S.-based AI companies. My work focuses on backend architecture, database design, real-time systems, and building reliable solutions from requirements to deployment.
 
-One of my key projects is a [real-time chat application](https://github.com/alimagdye/Real-Time-Chat-Application) built with Node.js, Express.js, and Supabase.
+I have hands-on experience with PostgreSQL, MySQL, MongoDB, Redis, Prisma ORM, Supabase, Socket.IO, and REST API development. I have designed and implemented advanced backend features such as a Reddit-style nested commenting system using tree-based data modeling, real-time notification systems, authentication flows, and optimized database structures => [Check it here](https://github.com/alimagdye/maza3eat-arab).
 
-My projects showcase my ability to enhance workflows and introduce tailored solutions based on unique business needs. For instance, I developed a [comprehensive database for an accessible hotel](https://github.com/alimagdye/HFD-database), optimizing data management and efficiency.
+One of my key projects is a Ticketmaster-style event ticketing platform, where I designed a real-time seat reservation system using Redis locks and Socket.IO to handle concurrent bookings and prevent race conditions => [Check it here](https://github.com/alimagdye/Event-ticketing).
 
-I am always open to new opportunities, collaborations, and internships where I can apply and grow my expertise in backend development.
+I enjoy solving complex engineering problems, improving system performance, and building backend solutions that support real-world users and business needs.
+
+I am always open to backend engineering opportunities, collaborations, and challenging projects where I can continue growing and delivering impactful software solutions.
+
 </h3>
 
 <p align="left">
